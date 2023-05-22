@@ -1,0 +1,23 @@
+{
+  "name": "na-jest",
+  "version": "1.0.0",
+  "description": "Please find all the instructions for this repo [here](https://l2c.northcoders.com/courses/fun/pairing-katas)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8maziar/na-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8maziar/na-jest/issues"
+  },
+  "homepage": "https://github.com/8maziar/na-jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
